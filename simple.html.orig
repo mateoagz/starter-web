@@ -1,12 +1,5 @@
 <!DOCTYPE html>
-<!--Cpyright ®
-<<<<<<< HEAD
-=======
-	Added changing before rebase conflict	
-	Several changes
-	how this is gonna affect master?
->>>>>>> problem
- -->
+<!--Cpyright ® -->
 <head>
 	<title>Example website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -14,7 +7,6 @@
 		body {
 			padding-top: 50px;
 			padding-bottom: 20px;
-			border: 1px solid #999;
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -27,7 +19,11 @@
 		</p>
 	</main>
 	<footer class="container">
+<<<<<<< HEAD
 		<p>&copy; Shelby Company 2019</p>
+=======
+		<p>&copy; Company 2019</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
